@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crosser</string>
+    <string name="refresh">Refresh</string>
+    <string name="crosseronoff">Turn Crosser On/Off</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="scanning">scanning for devices...</string>
+</resources>
